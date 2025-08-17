@@ -1,0 +1,15 @@
+packaging
+torch==2.8.0
+transformers==4.55.2
+causal-conv1d==1.0.0
+mamba-ssm==2.2.5
+accelerate==1.10.0
+bitsandbytes==0.47.0
+scipy==1.11.4
+datasets>=2.18.0
+peft>=0.9.0
+einops>=0.7.0
+gradio>=4.21.0
+packaging
+ninja
+causal-conv1d>=1.0.0

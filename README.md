@@ -1,1 +1,1 @@
-# mamba2-chat
+# Mamba2-Chat 🐍
